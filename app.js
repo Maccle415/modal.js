@@ -1,0 +1,1 @@
+Modal.createFrom("myModal", "modalView", "showMyModal");
